@@ -72,14 +72,14 @@ Supports local execution without depending on external cloud LLM APIs.
 
 ## Tech Stack
 * Python
-Streamlit
-PyMuPDF
-Tesseract OCR
-LangChain Text Splitters
-BGE-M3
-ChromaDB
-Ollama
-Llama 3.2
+* Streamlit
+* PyMuPDF
+* Tesseract OCR
+* LangChain Text Splitters
+* BGE-M3
+* ChromaDB
+* Ollama
+* Llama 3.2
 
 ## RAG Pipeline
 1. Document Processing
