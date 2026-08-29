@@ -71,7 +71,7 @@ Provides a simple interactive interface using Streamlit.
 Supports local execution without depending on external cloud LLM APIs.
 
 ## Tech Stack
-Python
+* Python
 Streamlit
 PyMuPDF
 Tesseract OCR
