@@ -1,0 +1,12 @@
+streamlit
+pymupdf
+pytesseract
+Pillow
+chromadb
+sentence-transformers
+langchain
+langchain-community
+ollama
+python-dotenv
+pandas
+numpy
